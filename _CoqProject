@@ -1,2 +1,5 @@
 -R . stlc
 Maps.v
+Typechecking.v
+Stlc.v
+Smallstep.v
